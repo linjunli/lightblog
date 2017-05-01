@@ -5,5 +5,30 @@
     "express-session": "^1.15.2",
     "oneapm": "^2.0.0",
     "passport": "^0.3.2"
-  }
+  },
+  "name": "lightblog",
+  "description": "a node.js blog",
+  "version": "0.0.1",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linjunli/lightblog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog"
+  ],
+  "author": "lilinjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linjunli/lightblog/issues"
+  },
+  "homepage": "https://github.com/linjunli/lightblog#readme"
 }
